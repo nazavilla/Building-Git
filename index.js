@@ -1,5 +1,4 @@
-//Git is best thought of as a tool for storing the history of a collection of files.
-//- kernel.org
+//This project was completed with the help of Kushagra Gour's tutorials. https://kushagra.dev/
 
 function Git(name) {
     this.name = name;
